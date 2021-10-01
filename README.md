@@ -41,7 +41,7 @@
 
 |     Name      |             Github               |
 |---------------|----------------------------------|
-|               |                                  |
+| Shreya Malogi |  https://github.com/shreyamalogi |
 |               |                                  |
 |               |                                  |
 |               |                                  |
