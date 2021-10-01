@@ -42,7 +42,7 @@
 |     Name      |             Github               |
 |---------------|----------------------------------|
 | Shreya Malogi |  https://github.com/shreyamalogi |
-|               |                                  |
+| shruthi kotawar | https://github.com/shruthi-kotawar |                        |
 |               |                                  |
 |               |                                  |
 |               |                                  |
