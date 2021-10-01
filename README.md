@@ -1,5 +1,5 @@
 
-<p align="center" style="background-color: #57283e;"><img src="https://imgur.com/n8ooeHc.png"></p>
+<p align="center" style="background-color: #57283e;"><img src="https://github.com/CodeMacrocosm/Devathon/blob/main/images/hacktoberfest21.svg"></p>
 
 # Hacktoberfest 2021
 ## Why did you become a developer?
