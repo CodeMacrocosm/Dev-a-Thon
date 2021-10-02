@@ -39,14 +39,14 @@
 # Contributors
 ----
 
-|     Name      |             Github               |
-|---------------|----------------------------------|
-| Shreya Malogi |  https://github.com/shreyamalogi |
-| shruthi kotawar | https://github.com/shruthi-kotawar |                        |
-| Vishal Vishwakarma| https://github.com/vishalvishw10      |
-|               |                                  |
-|               |                                  |
-|               |                                  |
-|               |                                  |
-|               |                                  |
-|               |                                  |
+
+|     Name     		|             Github                |
+|-----------------------|---------------------------------- |
+| Shreya Malogi 	|https://github.com/shreyamalogi    |
+| Shruthi kotawar	|https://github.com/shruthi-kotawar |
+| Wellington Bezerra	|https://github.com/wellingtonSB  |
+| Vishal Vishwakarma| https://github.com/vishalvishw10  |
+|              		|                                   |
+|              		|                                   |
+|              		|                                   |
+
