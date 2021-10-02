@@ -1,5 +1,4 @@
 
-
 <p align="center" style="background-color: #57283e;"><img src="https://github.com/CodeMacrocosm/Devathon/blob/main/images/hacktoberfest21.svg"></p>
 
 # Hacktoberfest 2021
@@ -47,8 +46,7 @@
 | Shruthi kotawar	|https://github.com/shruthi-kotawar |
 | Wellington Bezerra	|https://github.com/wellingtonSB  |
 | Vishal Vishwakarma| https://github.com/vishalvishw10  |
-| Matheus Gois  | https://github.com/maatheusgois  |
+| mittapally pooja reddy  		|  https://github.com/mittapallypoojareddy  |                        |
 |              		|                                   |
 |              		|                                   |
-
 
