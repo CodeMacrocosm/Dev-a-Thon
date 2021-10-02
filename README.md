@@ -1,4 +1,5 @@
 
+
 <p align="center" style="background-color: #57283e;"><img src="https://github.com/CodeMacrocosm/Devathon/blob/main/images/hacktoberfest21.svg"></p>
 
 # Hacktoberfest 2021
@@ -39,12 +40,13 @@
 # Contributors
 ----
 
+
 |     Name     		|             Github                |
 |-----------------------|---------------------------------- |
 | Shreya Malogi 	|https://github.com/shreyamalogi    |
 | Shruthi kotawar	|https://github.com/shruthi-kotawar |
-| Wellington Bezerra	|https://github.com/wellingtonSB    |
+| Wellington Bezerra	|https://github.com/wellingtonSB  |
+| Vishal Vishwakarma| https://github.com/vishalvishw10  |
+| mittapally pooja reddy | https://github.com/mittapallypoojareddy |                        
 | Sheba carolyn   |https://github.com/shebacarolyn    |
-|              		|                                   |
-|              		|                                   |
 |              		|                                   |
