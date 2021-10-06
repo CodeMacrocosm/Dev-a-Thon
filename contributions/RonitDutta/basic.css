@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  scrollbar-width: thin;
+  scrollbar-color: #2b2a33 #f7e39d;
+}
+
+.timerinfo,
+.btns {
+  display: flex;
+  height: 15vh;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  margin: .5em;
+}
+
+.button-primary {
+  font-family: "Raleway", sans-serif;
+  font-size: medium;
+  margin: 0.5em;
+}
