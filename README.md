@@ -44,6 +44,7 @@
 | Name                     | Github                                  |
 | ------------------------ | --------------------------------------- |
 | Shreya Malogi            | https://github.com/shreyamalogi         |
+| Ronit Dutta              | https://github.com/RD91                 |
 | Shruthi kotawar          | https://github.com/shruthi-kotawar      |
 | Wellington Bezerra       | https://github.com/wellingtonSB         |
 | Vishal Vishwakarma       | https://github.com/vishalvishw10        |
