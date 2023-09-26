@@ -5,11 +5,18 @@
 
 🚀🌟 Welcome to the Spectacular Dev-a-thon, a Dazzling Celebration of Your Transformation into a Glorious Developer! 🌟🚀
 
-## About
+[![Contributors](https://img.shields.io/badge/Contributors-31-brightgreen.svg)]()
+
+[![Forks](https://img.shields.io/badge/Forks-30-blue.svg)]()
+
+[![Stars](https://img.shields.io/badge/Stars-8-yellow.svg)]()
+
+
+## About 💡
 
 This phenomenal contest, graciously hosted by Shreya Malogi, presents Dev-a-thon-21 - an electrifying competition where exceptional developers like yourself have the splendid opportunity to unveil the compelling reasons behind their choice to embark on the mesmerizing path of becoming a developer, all while expressing it in their most cherished programming language! 🌟🚀
 
-Dev-a-thon is more than just a contest; it's an exhilarating odyssey where you can pour your heart out about your passion for coding, sharing your boundless enthusiasm for this digital realm, and kindling the flames of inspiration in those who are setting out on their own coding adventures. 🎈🌍💡
+Dev-a-thon is more than just a contest; it's an exhilarating odyssey where you can pour your heart out about your passion for coding, sharing your boundless enthusiasm for this digital realm, and kindling the flames of inspiration in those who are setting out on their own coding adventures. 🎈🌍
 
 ## How to Contribute  🚀📝
 
@@ -30,28 +37,61 @@ Push Your Branch: 🚀 Push your branch with git push origin NEW_BRANCH_NAME.
 
 Submit a Pull Request: 🎉 Submit a pull request from your forked repository.
 
-## Happy Hacking! 🎃👾
+## ⭐ Star It
 
-### Contributors
+If you found Pullathon'20 helpful and fun, don't forget to give it a star ⭐ to show your appreciation and support!
 
-- [Shruthi Kotawar](https://github.com/shruthi-kotawar)
-- [Wellington Bezerra](https://github.com/wellingtonSB)
-- [Vishal Vishwakarma](https://github.com/vishalvishw10)
-- [Mittapally Pooja Reddy](https://github.com/mittapallypoojareddy)
-- [Sheba Carolyn](https://github.com/shebacarolyn)
-- [Noundla Chandrasangna](https://github.com/chandrasangna)
-- [Niharika Ponugoti](https://github.com/niharikaponugoti)
-- [Prakash Kumar](https://github.com/prakash-sah-lab)
-- [Cheah Jing Feng](https://github.com/cloudy3)
-- [Saumya Kumar](https://github.com/saumyakr1232)
-- [Ankit Kumar](https://github.com/Nightowl-8)
-- [Aditya Ojha](https://github.com/aditya1ojha)
-- [Md. Salman Hossan Prottoy](https://github.com/salmanprottoy)
-- [Pranjal Yadav](https://github.com/Pranjal-Yadav17)
-- [Kishan Kumar](https://github.com/KishanUtkarsh)
-- [Kareena](https://github.com/karr007)
-- [Gangothri](https://github.com/gangothrim711)
-- [Mounika](https://github.com/mounika)
-- [Harsh Patil](https://github.com/patilharsh03)
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+MIT License
+
+Copyright (c) 2021 CodeMacrocosm
+
+
+## Contributors 💻
+
+Join the list by making your contributions today!
+
+
+### Contributors 🚀
+
+1. [Shreya ](https://github.com/shreyamalogi)
+2. [Chandrasangna](https://github.com/chandrasangna)
+3. [Leosantosx](https://github.com/leosantosx)
+4. [Gangothrim711](https://github.com/gangothrim711)
+5. [Mounikakongara](https://github.com/Mounikakongara)
+6. [Gracebewithyou](https://github.com/gracebewithyou)
+7. [Karr007](https://github.com/karr007)
+8. [Pranjal-Yadav17](https://github.com/Pranjal-Yadav17)
+9. [Saumyakr1232](https://github.com/saumyakr1232)
+10. [Niharikaponugoti](https://github.com/niharikaponugoti)
+11. [Prakash-sah-lab](https://github.com/prakash-sah-lab)
+12. [Shebacarolyn](https://github.com/shebacarolyn)
+13. [MittapallyPoojaReddy](https://github.com/MittapallyPoojaReddy)
+14. [MaatheusGois](https://github.com/MaatheusGois)
+15. [Vishalvishw10](https://github.com/vishalvishw10)
+16. [Shruthi-kotawar](https://github.com/shruthi-kotawar)
+17. [Patilharsh03](https://github.com/patilharsh03)
+18. [Ajit1010](https://github.com/Ajit1010)
+19. [Shanbinary](https://github.com/shanbinary)
+20. [Heysagnik](https://github.com/heysagnik)
+21. [Aakashmau](https://github.com/Aakashmau)
+22. [KishanUtkarsh](https://github.com/KishanUtkarsh)
+23. [Salmanprottoy](https://github.com/salmanprottoy)
+24. [Aditya1ojha](https://github.com/aditya1ojha)
+25. [Traveller08](https://github.com/Traveller08)
+26. [Praneeth2yadav](https://github.com/praneeth2yadav)
+27. [Cloudy3](https://github.com/cloudy3)
+28. [Kittu2karthik](https://github.com/kittu2karthik)
+29. [Anwarali143](https://github.com/Anwarali143)
+30. [EhDattavallabh](https://github.com/EhDattavallabh)
+31. [WellingtonSB](https://github.com/WellingtonSB)
+
+Thank you all for your wonderful contributions! 🎉👏
 
 Join us in sharing your coding journey and inspiring others to become developers! 🚀✨💡
+
+## Happy Hacking! 🎃👾
+
