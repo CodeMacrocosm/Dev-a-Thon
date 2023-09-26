@@ -39,7 +39,7 @@ Submit a Pull Request: 🎉 Submit a pull request from your forked repository.
 
 ## ⭐ Star It
 
-If you found Pullathon'20 helpful and fun, don't forget to give it a star ⭐ to show your appreciation and support!
+If you found this helpful and fun, don't forget to give it a star ⭐ to show your appreciation and support!
 
 ## 📄 License
 
