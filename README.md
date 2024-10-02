@@ -5,16 +5,16 @@
 
 </div>
 <p align="center">
-  <a href="https://github.com/CodeMacrocosm/Dev-a-Thon-21/stargazers">
-    <img src="https://img.shields.io/github/stars/CodeMacrocosm/Dev-a-Thon-21?style=flat-square" alt="GitHub stars">
+  <a href="https://github.com/CodeMacrocosm/Dev-a-Thon/stargazers">
+    <img src="https://img.shields.io/github/stars/CodeMacrocosm/Dev-a-Thon?style=flat-square" alt="GitHub stars">
   </a>
-  <a href="https://github.com/CodeMacrocosm/Dev-a-Thon-21/network">
-    <img src="https://img.shields.io/github/forks/CodeMacrocosm/Dev-a-Thon-21?style=flat-square" alt="GitHub forks">
+  <a href="https://github.com/CodeMacrocosm/Dev-a-Thon/network">
+    <img src="https://img.shields.io/github/forks/CodeMacrocosm/Dev-a-Thon?style=flat-square" alt="GitHub forks">
   </a>
-  <a href="https://github.com/codemacrocosm/Dev-a-Thon-21/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/codemacrocosm/Dev-a-Thon-21.svg" alt="GitHub contributors">
+  <a href="https://github.com/codemacrocosm/Dev-a-Thon/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/codemacrocosm/Dev-a-Thon.svg" alt="GitHub contributors">
   </a>
-  <img src="https://img.shields.io/github/license/CodeMacrocosm/Dev-a-Thon-21" alt="GitHub">
+  <img src="https://img.shields.io/github/license/CodeMacrocosm/Dev-a-Thon" alt="GitHub">
 </p>
 
 <div align="center">
@@ -23,8 +23,8 @@
 
 Thanks goes to these amazing people for their contributions 🎉🎉🎉
 
-<a href="https://github.com/codeMacrocosm/Dev-a-Thon-21/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=codeMacrocosm/Dev-a-Thon-21" />
+<a href="https://github.com/codeMacrocosm/Dev-a-Thon/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=codeMacrocosm/Dev-a-Thon" />
 </a>
 
 </div>
@@ -57,7 +57,7 @@ Thanks goes to these amazing people for their contributions 🎉🎉🎉
 📥 **Clone Your Fork** 
 
    ```bash
-   git clone https://github.com/codemacrocosm/Dev-a-Thon-21.git
+   git clone https://github.com/codemacrocosm/Dev-a-Thon.git
    ```
 
 🌿 **Create a Branch** 
