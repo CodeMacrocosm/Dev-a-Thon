@@ -102,6 +102,7 @@ Copyright (c) 2021 CodeMacrocosm
 ## Contributors 🙌
 
 A big thanks to all the creative minds who have contributed.
+- Nishtha Gupta - [https://github.com/nishtha-09-gupta](https://github.com/nishtha-09-gupta)
 
 Now, let the creation begin! 🎨
 
