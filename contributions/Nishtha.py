@@ -18,6 +18,6 @@ def coding_journey():
             time.sleep(0.5)
         print(f"\nAdventure {i+1}: {random.choice(adventures)}\n")
         time.sleep(1)
-    print("Because coding is my playground and passion! 🚀")
+    print("Because coding is my playground and passion!!!")
 if __name__ == "__main__":
     coding_journey()
