@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🚀 Dev-a-Thon' 21  Explore Your Dev Storry! 🌟
+# 🚀 Dev-a-Thon' 21  Explore Your Dev Storry! 
 
 </div>
 <p align="center">
